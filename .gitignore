@@ -1,0 +1,10 @@
+#
+# Unwanted files from eclipse
+#
+
+.metadata/*
+_rough/*
+*/.settings/*
+*.classpath
+*.project
+*/bin/*
